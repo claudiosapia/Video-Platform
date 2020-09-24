@@ -1,0 +1,223 @@
+body{
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+
+        font-family: 'Overpass Mono', monospace !important;
+    color:#fff;
+}
+
+#title {
+    background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+    color:#fff;
+}
+
+
+#intro {
+position: relative;
+bottom: 6em;
+    margin: auto;
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+  
+}
+
+#h1 {
+ font-size: 69px!important;
+font-weight: 900 !important;
+letter-spacing:1rem;
+padding-bottom: 1em;
+background: -webkit-linear-gradient(#eee, rgb(28, 15, 207));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+ 
+
+
+#i {
+    margin-left: 1.4rem;
+    margin-top: 2rem;
+ }
+
+
+
+
+
+#intro h2 {
+    margin: auto;
+    text-align: center;
+    font-family: 'Overpass Mono', monospace;
+    padding-bottom: 5em;
+}
+
+
+
+.navbar-brand{
+    font-size: 2.5rem !important;
+    margin: 1.4em 3em 2.1em -1.9em;
+    background: -webkit-linear-gradient(#eee, rgb(28, 15, 207));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 50px !important;
+    font-family: 'Cabin Sketch', cursive;
+}
+.nav-link{
+   
+font-family: 'Overpass Mono', monospace;
+    font-weight: 400;
+    margin: 0 1em 0 1em;
+    font-size: 1rem !important;
+}
+.navbar{
+    padding: 2rem 0 4.5rem 0 !important ;
+}
+
+.nav-item {
+    padding: 0 18px !important;
+}
+
+h1 {
+    font-size: 3.5rem !important;
+    font-weight: 900 !important;
+    line-height: 1.5 !important;
+}
+
+h2 {
+    font-weight: bold !important;
+    
+}
+
+h3 {
+    font-weight: 700 !important;
+    font-size: 1.5rem !important;
+}
+
+.title-image {
+    width: 60%;
+    margin-left: 3rem;
+    position: absolute;
+    transform: rotate(25deg);
+}
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+
+
+
+.row {
+    margin: 50px 0px 200px 0px;
+}
+
+
+
+
+#News {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+#music {
+    margin: auto;
+    text-align: center;
+}
+
+#sport {
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
+#slide {
+    margin: auto;
+    height: 400px;
+    text-align: center;
+    color: #fff;
+    padding-bottom:10em !important;
+    margin-bottom: 10em !important;
+}
+
+.cn {
+     margin: auto;
+    width: 100%;
+}
+
+
+
+
+
+#pricing {
+    margin: auto;
+    text-align: center;
+}
+
+.card-body {
+    height: 270px;
+    color: black;
+}
+
+.card-header {
+    background-color: black ;
+}
+
+#footer {
+ 
+    margin: auto;
+    text-align: center;
+}
+
+.icons {
+    margin: 0px 10px 0px 10px;
+    letter-spacing: 4;
+}
+
+#cta {
+  
+    margin: 50px 0px 50px 0px;
+    text-align: center;
+    padding-bottom: 50px;
+  
+   
+}
+.h3-2{
+    
+    color: white;
+    padding-top: 80px;
+    font-size: 45px !important;
+      margin: 40px 120px;   
+ font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+    .bg-img {
+       
+       
+    }
+
+    #mobile-app {
+        margin: auto;
+        text-align: center;
+    }
+
+    .image {
+        text-align: center;
+        margin: auto;
+    }
+
+    .h3-mobile {
+        font-family: 'Architects Daughter', cursive;
+             font-size: 4em !important;
+      background: -webkit-linear-gradient(rgb(33, 50, 148), rgb(255, 255, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: lighter !important;
+    }
